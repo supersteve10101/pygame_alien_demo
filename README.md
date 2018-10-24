@@ -10,3 +10,7 @@ Alpha 1.0
 2. Install pygame
 3. Download SuperSteveAlien.py
 4. Run *python* *SuperSteveAlien.py*
+
+# Thank you
+
+To https://www.pygame.org for being awesome!
